@@ -27,6 +27,7 @@ Since I am most focused on backend development, most of it will related to backe
 
 ## Design Patterns
 
+- Observer Pattern;
 - Outbox Pattern;
 - Visitor Pattern;
 - Factory Pattern (Abstract and Factory Method);
