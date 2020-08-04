@@ -1,8 +1,8 @@
 # Shortchuts
 
-New project: ng new {project-name}
+**New project:** ng new {project-name}
 
-New component: ng generate {component-name} 
+**New component:** ng generate {component-name} 
 
 
 **Lifecycle Hook:**
