@@ -2,7 +2,7 @@
 
 A roadmap of technologies, knowledge and findings to explore.
 
-Since I am most focused on backend development, most of it will related to backend. I will
+Since I am most focused on backend development, most of it will related to backend. I will update the goals time to time. Also one of the goals is to start sharing what I've learned in blog posts and repo's with some experiments and PoC's.
 
 ## Language/Frameworks
 
