@@ -40,3 +40,5 @@ Since I am most focused on backend development, most of it will related to backe
 
 - C# in depth;
 - ASP.Net 4.5 and C# 5
+
+## Tools
