@@ -1,6 +1,7 @@
 # Shortchuts
 
 New project: ng new {project-name}
+
 New component: ng generate {component-name} 
 
 
