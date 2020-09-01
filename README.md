@@ -10,6 +10,11 @@ Since I am most focused on backend development, most of it will related to backe
 - Angular;
 - Javascript;
 
+## Libraries
+
+- ngxs;
+- ngrx;
+
 ## Containers
 
 - Docker (https://www.udemy.com/course/docker-mastery/) (to finish);
